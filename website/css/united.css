@@ -1,0 +1,30 @@
+.circle {
+  stroke: #D9534F;
+  fill: bd3d3f;
+  fill-opacity: .3;
+  stroke-width: 0.5;
+}
+
+
+.text_sum {
+  fill: black;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Montserrat';
+}
+
+.line_tl {
+  fill: black;
+  fill-opacity: 1;
+  stroke: #D9534F; /* Set line color */
+  stroke-width: 1px;
+}
+
+.tooltip-united {
+  background-color: #595959;
+  opacity: 0;
+  border: solid;
+  border-width: 2px;
+  border-radius: 5px;
+  padding: 5px
+}

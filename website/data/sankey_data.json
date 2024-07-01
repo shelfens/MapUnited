@@ -1,0 +1,1878 @@
+{
+    "1990": {
+        "nodes": [
+            {
+                "node": 0,
+                "name": "AFRICA"
+            },
+            {
+                "node": 1,
+                "name": "ASIA"
+            },
+            {
+                "node": 2,
+                "name": "EUROPE"
+            },
+            {
+                "node": 3,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 4,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 5,
+                "name": "OCEANIA"
+            },
+            {
+                "node": 6,
+                "name": "OTHER"
+            },
+            {
+                "node": 7,
+                "name": "AFRICA"
+            },
+            {
+                "node": 8,
+                "name": "ASIA"
+            },
+            {
+                "node": 9,
+                "name": "EUROPE"
+            },
+            {
+                "node": 10,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 11,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 12,
+                "name": "OCEANIA"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 7,
+                "value": 13431488
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "value": 1777604
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "value": 4682594
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "value": 19192
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "value": 548628
+            },
+            {
+                "source": 0,
+                "target": 12,
+                "value": 161958
+            },
+            {
+                "source": 1,
+                "target": 7,
+                "value": 492107
+            },
+            {
+                "source": 1,
+                "target": 8,
+                "value": 35481900
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "value": 13453956
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "value": 263267
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "value": 6181878
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "value": 1083892
+            },
+            {
+                "source": 2,
+                "target": 7,
+                "value": 622122
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "value": 7632934
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "value": 28367362
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "value": 1817209
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "value": 6645283
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "value": 2645368
+            },
+            {
+                "source": 3,
+                "target": 7,
+                "value": 10188
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "value": 118597
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "value": 1104536
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "value": 3980808
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "value": 9976169
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "value": 83101
+            },
+            {
+                "source": 4,
+                "target": 7,
+                "value": 58134
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "value": 239176
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "value": 769469
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "value": 602762
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "value": 999977
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "value": 132617
+            },
+            {
+                "source": 5,
+                "target": 7,
+                "value": 9090
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "value": 43560
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "value": 191405
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "value": 2552
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "value": 135857
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "value": 579083
+            },
+            {
+                "source": 6,
+                "target": 7,
+                "value": 1066537
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "value": 2916178
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "value": 1038903
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "value": 450181
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "value": 3122616
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "value": 45919
+            }
+        ]
+    },
+    "1995": {
+        "nodes": [
+            {
+                "node": 0,
+                "name": "AFRICA"
+            },
+            {
+                "node": 1,
+                "name": "ASIA"
+            },
+            {
+                "node": 2,
+                "name": "EUROPE"
+            },
+            {
+                "node": 3,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 4,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 5,
+                "name": "OCEANIA"
+            },
+            {
+                "node": 6,
+                "name": "OTHER"
+            },
+            {
+                "node": 7,
+                "name": "AFRICA"
+            },
+            {
+                "node": 8,
+                "name": "ASIA"
+            },
+            {
+                "node": 9,
+                "name": "EUROPE"
+            },
+            {
+                "node": 10,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 11,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 12,
+                "name": "OCEANIA"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 7,
+                "value": 14179992
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "value": 1953253
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "value": 5179831
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "value": 19478
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "value": 826822
+            },
+            {
+                "source": 0,
+                "target": 12,
+                "value": 182018
+            },
+            {
+                "source": 1,
+                "target": 7,
+                "value": 567843
+            },
+            {
+                "source": 1,
+                "target": 8,
+                "value": 34096664
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "value": 14667430
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "value": 258892
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "value": 8290114
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "value": 1266979
+            },
+            {
+                "source": 2,
+                "target": 7,
+                "value": 539020
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "value": 6995360
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "value": 29988843
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "value": 1600698
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "value": 6859869
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "value": 2652213
+            },
+            {
+                "source": 3,
+                "target": 7,
+                "value": 9417
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "value": 291724
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "value": 1340812
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "value": 3670383
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "value": 14269456
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "value": 87912
+            },
+            {
+                "source": 4,
+                "target": 7,
+                "value": 47102
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "value": 277759
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "value": 743008
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "value": 688958
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "value": 1054522
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "value": 134812
+            },
+            {
+                "source": 5,
+                "target": 7,
+                "value": 7074
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "value": 47408
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "value": 222969
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "value": 2912
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "value": 175797
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "value": 615135
+            },
+            {
+                "source": 6,
+                "target": 7,
+                "value": 1006629
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "value": 2755876
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "value": 1346934
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "value": 420232
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "value": 1864368
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "value": 83458
+            }
+        ]
+    },
+    "2000": {
+        "nodes": [
+            {
+                "node": 0,
+                "name": "AFRICA"
+            },
+            {
+                "node": 1,
+                "name": "ASIA"
+            },
+            {
+                "node": 2,
+                "name": "EUROPE"
+            },
+            {
+                "node": 3,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 4,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 5,
+                "name": "OCEANIA"
+            },
+            {
+                "node": 6,
+                "name": "OTHER"
+            },
+            {
+                "node": 7,
+                "name": "AFRICA"
+            },
+            {
+                "node": 8,
+                "name": "ASIA"
+            },
+            {
+                "node": 9,
+                "name": "EUROPE"
+            },
+            {
+                "node": 10,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 11,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 12,
+                "name": "OCEANIA"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 7,
+                "value": 12753079
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "value": 2164626
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "value": 5797189
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "value": 20285
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "value": 1115964
+            },
+            {
+                "source": 0,
+                "target": 12,
+                "value": 228860
+            },
+            {
+                "source": 1,
+                "target": 7,
+                "value": 681816
+            },
+            {
+                "source": 1,
+                "target": 8,
+                "value": 36924433
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "value": 15541563
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "value": 258933
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "value": 10466666
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "value": 1460202
+            },
+            {
+                "source": 2,
+                "target": 7,
+                "value": 533653
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "value": 6445653
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "value": 31590963
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "value": 1396387
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "value": 7126994
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "value": 2634134
+            },
+            {
+                "source": 3,
+                "target": 7,
+                "value": 9501
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "value": 407595
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "value": 1699981
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "value": 3777576
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "value": 18644817
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "value": 89230
+            },
+            {
+                "source": 4,
+                "target": 7,
+                "value": 40167
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "value": 324065
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "value": 735943
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "value": 796397
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "value": 1113881
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "value": 139466
+            },
+            {
+                "source": 5,
+                "target": 7,
+                "value": 6457
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "value": 58045
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "value": 259848
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "value": 3400
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "value": 217378
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "value": 701708
+            },
+            {
+                "source": 6,
+                "target": 7,
+                "value": 1027004
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "value": 2742569
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "value": 1233306
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "value": 286760
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "value": 1666010
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "value": 108081
+            }
+        ]
+    },
+    "2005": {
+        "nodes": [
+            {
+                "node": 0,
+                "name": "AFRICA"
+            },
+            {
+                "node": 1,
+                "name": "ASIA"
+            },
+            {
+                "node": 2,
+                "name": "EUROPE"
+            },
+            {
+                "node": 3,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 4,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 5,
+                "name": "OCEANIA"
+            },
+            {
+                "node": 6,
+                "name": "OTHER"
+            },
+            {
+                "node": 7,
+                "name": "AFRICA"
+            },
+            {
+                "node": 8,
+                "name": "ASIA"
+            },
+            {
+                "node": 9,
+                "name": "EUROPE"
+            },
+            {
+                "node": 10,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 11,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 12,
+                "name": "OCEANIA"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 7,
+                "value": 13411177
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "value": 2335304
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "value": 7620545
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "value": 21850
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "value": 1524859
+            },
+            {
+                "source": 0,
+                "target": 12,
+                "value": 327671
+            },
+            {
+                "source": 1,
+                "target": 7,
+                "value": 789396
+            },
+            {
+                "source": 1,
+                "target": 8,
+                "value": 40867887
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "value": 16825888
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "value": 264943
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "value": 12195799
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "value": 1862130
+            },
+            {
+                "source": 2,
+                "target": 7,
+                "value": 617032
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "value": 6408006
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "value": 33415975
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "value": 1248692
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "value": 6988925
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "value": 2658354
+            },
+            {
+                "source": 3,
+                "target": 7,
+                "value": 10748
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "value": 394800
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "value": 3453004
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "value": 4357513
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "value": 21019256
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "value": 102885
+            },
+            {
+                "source": 4,
+                "target": 7,
+                "value": 45155
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "value": 382401
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "value": 824591
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "value": 967044
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "value": 1132443
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "value": 160472
+            },
+            {
+                "source": 5,
+                "target": 7,
+                "value": 8018
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "value": 70300
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "value": 284743
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "value": 3585
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "value": 230353
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "value": 794419
+            },
+            {
+                "source": 6,
+                "target": 7,
+                "value": 1158561
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "value": 2791089
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "value": 1160985
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "value": 320486
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "value": 2271454
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "value": 118090
+            }
+        ]
+    },
+    "2010": {
+        "nodes": [
+            {
+                "node": 0,
+                "name": "AFRICA"
+            },
+            {
+                "node": 1,
+                "name": "ASIA"
+            },
+            {
+                "node": 2,
+                "name": "EUROPE"
+            },
+            {
+                "node": 3,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 4,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 5,
+                "name": "OCEANIA"
+            },
+            {
+                "node": 6,
+                "name": "OTHER"
+            },
+            {
+                "node": 7,
+                "name": "AFRICA"
+            },
+            {
+                "node": 8,
+                "name": "ASIA"
+            },
+            {
+                "node": 9,
+                "name": "EUROPE"
+            },
+            {
+                "node": 10,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 11,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 12,
+                "name": "OCEANIA"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 7,
+                "value": 14571247
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "value": 3426719
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "value": 8748280
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "value": 27847
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "value": 1984391
+            },
+            {
+                "source": 0,
+                "target": 12,
+                "value": 435368
+            },
+            {
+                "source": 1,
+                "target": 7,
+                "value": 896987
+            },
+            {
+                "source": 1,
+                "target": 8,
+                "value": 51825389
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "value": 18287405
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "value": 285869
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "value": 14250937
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "value": 2575590
+            },
+            {
+                "source": 2,
+                "target": 7,
+                "value": 604211
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "value": 6444826
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "value": 36683624
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "value": 1147896
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "value": 7081741
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "value": 2749003
+            },
+            {
+                "source": 3,
+                "target": 7,
+                "value": 19077
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "value": 426361
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "value": 4581301
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "value": 5344184
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "value": 24134573
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "value": 132154
+            },
+            {
+                "source": 4,
+                "target": 7,
+                "value": 46499
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "value": 468106
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "value": 921685
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "value": 1198308
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "value": 1149471
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "value": 185734
+            },
+            {
+                "source": 5,
+                "target": 7,
+                "value": 12023
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "value": 88244
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "value": 323142
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "value": 4249
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "value": 245006
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "value": 918504
+            },
+            {
+                "source": 6,
+                "target": 7,
+                "value": 1656633
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "value": 3443995
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "value": 1081723
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "value": 318235
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "value": 2124405
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "value": 132245
+            }
+        ]
+    },
+    "2015": {
+        "nodes": [
+            {
+                "node": 0,
+                "name": "AFRICA"
+            },
+            {
+                "node": 1,
+                "name": "ASIA"
+            },
+            {
+                "node": 2,
+                "name": "EUROPE"
+            },
+            {
+                "node": 3,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 4,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 5,
+                "name": "OCEANIA"
+            },
+            {
+                "node": 6,
+                "name": "OTHER"
+            },
+            {
+                "node": 7,
+                "name": "AFRICA"
+            },
+            {
+                "node": 8,
+                "name": "ASIA"
+            },
+            {
+                "node": 9,
+                "name": "EUROPE"
+            },
+            {
+                "node": 10,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 11,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 12,
+                "name": "OCEANIA"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 7,
+                "value": 18200172
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "value": 4166307
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "value": 9536606
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "value": 39533
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "value": 2663579
+            },
+            {
+                "source": 0,
+                "target": 12,
+                "value": 505762
+            },
+            {
+                "source": 1,
+                "target": 7,
+                "value": 1078578
+            },
+            {
+                "source": 1,
+                "target": 8,
+                "value": 61654516
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "value": 19797557
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "value": 341807
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "value": 17273538
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "value": 3232023
+            },
+            {
+                "source": 2,
+                "target": 7,
+                "value": 581876
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "value": 6573735
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "value": 38418244
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "value": 1291715
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "value": 6926249
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "value": 2785934
+            },
+            {
+                "source": 3,
+                "target": 7,
+                "value": 29928
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "value": 376798
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "value": 4487571
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "value": 6166726
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "value": 24980329
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "value": 164648
+            },
+            {
+                "source": 4,
+                "target": 7,
+                "value": 47055
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "value": 496804
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "value": 972405
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "value": 1182133
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "value": 1100000
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "value": 216252
+            },
+            {
+                "source": 5,
+                "target": 7,
+                "value": 12521
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "value": 92431
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "value": 348242
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "value": 4723
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "value": 280255
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "value": 1013250
+            },
+            {
+                "source": 6,
+                "target": 7,
+                "value": 2910662
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "value": 3830658
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "value": 1198458
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "value": 414866
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "value": 2409791
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "value": 154407
+            }
+        ]
+    },
+    "2020": {
+        "nodes": [
+            {
+                "node": 0,
+                "name": "AFRICA"
+            },
+            {
+                "node": 1,
+                "name": "ASIA"
+            },
+            {
+                "node": 2,
+                "name": "EUROPE"
+            },
+            {
+                "node": 3,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 4,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 5,
+                "name": "OCEANIA"
+            },
+            {
+                "node": 6,
+                "name": "OTHER"
+            },
+            {
+                "node": 7,
+                "name": "AFRICA"
+            },
+            {
+                "node": 8,
+                "name": "ASIA"
+            },
+            {
+                "node": 9,
+                "name": "EUROPE"
+            },
+            {
+                "node": 10,
+                "name": "LATIN AMERICA AND THE CARIBBEAN"
+            },
+            {
+                "node": 11,
+                "name": "NORTHERN AMERICA"
+            },
+            {
+                "node": 12,
+                "name": "OCEANIA"
+            }
+        ],
+        "links": [
+            {
+                "source": 0,
+                "target": 7,
+                "value": 20917565
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "value": 4720103
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "value": 11024274
+            },
+            {
+                "source": 0,
+                "target": 10,
+                "value": 48791
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "value": 3268757
+            },
+            {
+                "source": 0,
+                "target": 12,
+                "value": 587673
+            },
+            {
+                "source": 1,
+                "target": 7,
+                "value": 1207631
+            },
+            {
+                "source": 1,
+                "target": 8,
+                "value": 68497762
+            },
+            {
+                "source": 1,
+                "target": 9,
+                "value": 23203976
+            },
+            {
+                "source": 1,
+                "target": 10,
+                "value": 402369
+            },
+            {
+                "source": 1,
+                "target": 11,
+                "value": 17549235
+            },
+            {
+                "source": 1,
+                "target": 12,
+                "value": 4050511
+            },
+            {
+                "source": 2,
+                "target": 7,
+                "value": 648455
+            },
+            {
+                "source": 2,
+                "target": 8,
+                "value": 7169630
+            },
+            {
+                "source": 2,
+                "target": 9,
+                "value": 44246425
+            },
+            {
+                "source": 2,
+                "target": 10,
+                "value": 1355886
+            },
+            {
+                "source": 2,
+                "target": 11,
+                "value": 6869872
+            },
+            {
+                "source": 2,
+                "target": 12,
+                "value": 2983395
+            },
+            {
+                "source": 3,
+                "target": 7,
+                "value": 32524
+            },
+            {
+                "source": 3,
+                "target": 8,
+                "value": 414658
+            },
+            {
+                "source": 3,
+                "target": 9,
+                "value": 5395924
+            },
+            {
+                "source": 3,
+                "target": 10,
+                "value": 11297173
+            },
+            {
+                "source": 3,
+                "target": 11,
+                "value": 25535633
+            },
+            {
+                "source": 3,
+                "target": 12,
+                "value": 214569
+            },
+            {
+                "source": 4,
+                "target": 7,
+                "value": 53563
+            },
+            {
+                "source": 4,
+                "target": 8,
+                "value": 538199
+            },
+            {
+                "source": 4,
+                "target": 9,
+                "value": 1100304
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "value": 1293053
+            },
+            {
+                "source": 4,
+                "target": 11,
+                "value": 1088520
+            },
+            {
+                "source": 4,
+                "target": 12,
+                "value": 254319
+            },
+            {
+                "source": 5,
+                "target": 7,
+                "value": 14483
+            },
+            {
+                "source": 5,
+                "target": 8,
+                "value": 101725
+            },
+            {
+                "source": 5,
+                "target": 9,
+                "value": 397036
+            },
+            {
+                "source": 5,
+                "target": 10,
+                "value": 5630
+            },
+            {
+                "source": 5,
+                "target": 11,
+                "value": 343625
+            },
+            {
+                "source": 5,
+                "target": 12,
+                "value": 1107706
+            },
+            {
+                "source": 6,
+                "target": 7,
+                "value": 2515243
+            },
+            {
+                "source": 6,
+                "target": 8,
+                "value": 4176425
+            },
+            {
+                "source": 6,
+                "target": 9,
+                "value": 1338129
+            },
+            {
+                "source": 6,
+                "target": 10,
+                "value": 391721
+            },
+            {
+                "source": 6,
+                "target": 11,
+                "value": 4053153
+            },
+            {
+                "source": 6,
+                "target": 12,
+                "value": 182480
+            }
+        ]
+    }
+}
